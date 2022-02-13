@@ -9,7 +9,7 @@ ToDo:
     compile stop:        STRG+C
 3.) start:               npm run start
     server stop:         STRG+C
-8.) browser: http://localhost:8080/
+4.) browser: http://localhost:8080/
 
 The following lines were added to package.json during installation. Should the project in future
 no longer work, you can fall back on the following versions for the installation: 
