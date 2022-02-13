@@ -1,0 +1,14 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React-Applikation",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx servor ./public  --reload",
+    "compile": "babel src --out-dir public/lib --watch"
+  },
+  "author": "mngel",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
